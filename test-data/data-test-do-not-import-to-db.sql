@@ -26,16 +26,16 @@ INSERT INTO categories(category_name) VALUES('Road Bikes');
 -- SET IDENTITY_INSERT categories OFF;  
 
 -- SET IDENTITY_INSERT products ON;
-INSERT INTO products(product_name, brand_id, category_id, model_year, list_price) VALUES('Trek 820 - 2016',9,6,2016,379.99);
-INSERT INTO products(product_name, brand_id, category_id, model_year, list_price) VALUES('Ritchey Timberwolf Frameset - 2016',5,6,2016,749.99);
-INSERT INTO products(product_name, brand_id, category_id, model_year, list_price) VALUES('Surly Wednesday Frameset - 2016',8,6,2016,999.99);
+-- INSERT INTO products(product_name, brand_id, category_id, model_year, list_price) VALUES('Trek 820 - 2016',9,6,2016,379.99);
+-- INSERT INTO products(product_name, brand_id, category_id, model_year, list_price) VALUES('Ritchey Timberwolf Frameset - 2016',5,6,2016,749.99);
+-- INSERT INTO products(product_name, brand_id, category_id, model_year, list_price) VALUES('Surly Wednesday Frameset - 2016',8,6,2016,999.99);
 
-INSERT INTO products(product_name, brand_id, category_id, model_year, list_price) VALUES('Trek Fuel EX 8 29 - 2016',9,6,2016,2899.99);
-INSERT INTO products(product_name, brand_id, category_id, model_year, list_price) VALUES('Heller Shagamaw Frame - 2016',3,6,2016,1320.99);
-INSERT INTO products(product_name, brand_id, category_id, model_year, list_price) VALUES('Surly Ice Cream Truck Frameset - 2016',8,6,2016,469.99);
-INSERT INTO products(product_name, brand_id, category_id, model_year, list_price) VALUES('Trek Slash 8 27.5 - 2016',9,6,2016,3999.99);
-INSERT INTO products(product_name, brand_id, category_id, model_year, list_price) VALUES('Trek Remedy 29 Carbon Frameset - 2016',9,6,2016,1799.99);
-INSERT INTO products(product_name, brand_id, category_id, model_year, list_price) VALUES('Trek Conduit+ - 2016',9,5,2016,2999.99);
+-- INSERT INTO products(product_name, brand_id, category_id, model_year, list_price) VALUES('Trek Fuel EX 8 29 - 2016',9,6,2016,2899.99);
+-- INSERT INTO products(product_name, brand_id, category_id, model_year, list_price) VALUES('Heller Shagamaw Frame - 2016',3,6,2016,1320.99);
+-- INSERT INTO products(product_name, brand_id, category_id, model_year, list_price) VALUES('Surly Ice Cream Truck Frameset - 2016',8,6,2016,469.99);
+-- INSERT INTO products(product_name, brand_id, category_id, model_year, list_price) VALUES('Trek Slash 8 27.5 - 2016',9,6,2016,3999.99);
+-- INSERT INTO products(product_name, brand_id, category_id, model_year, list_price) VALUES('Trek Remedy 29 Carbon Frameset - 2016',9,6,2016,1799.99);
+-- INSERT INTO products(product_name, brand_id, category_id, model_year, list_price) VALUES('Trek Conduit+ - 2016',9,5,2016,2999.99);
 
 
 
